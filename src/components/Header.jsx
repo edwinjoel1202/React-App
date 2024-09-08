@@ -11,7 +11,7 @@ function Header() {
           <li>Services</li>
           <li>Contact</li>
         </ul>
-        <hr />
+        <hr/>
       </nav>
     </header>
   );

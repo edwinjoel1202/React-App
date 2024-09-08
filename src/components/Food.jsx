@@ -11,6 +11,7 @@ function Food() {
         <li>{food1.toUpperCase()}</li>
         <li>{food2.toUpperCase()}</li>
       </ul>
+      <hr/>
     </div>
   );
 }
